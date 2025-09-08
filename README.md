@@ -1,5 +1,6 @@
 🍕 Pizza Sales Dashboard (SQL | Power BI | Excel)
 <img width="1346" height="733" alt="Home Dashboard" src="https://github.com/user-attachments/assets/81c1703a-1b32-4450-999d-58983a4fff12" />
+<img width="1342" height="731" alt="Seller Dashboard" src="https://github.com/user-attachments/assets/731f5444-b59c-4d1a-ab4a-0972e6158920" />
 
 
 📌 Project Overview
