@@ -1,4 +1,7 @@
 🍕 Pizza Sales Dashboard (SQL | Power BI | Excel)
+<img width="1346" height="733" alt="Home Dashboard" src="https://github.com/user-attachments/assets/81c1703a-1b32-4450-999d-58983a4fff12" />
+
+
 📌 Project Overview
 
 This project focuses on analyzing pizza sales data to generate meaningful business insights. The goal is to calculate key performance indicators (KPIs), identify sales patterns, and visualize trends through an interactive Power BI dashboard.
